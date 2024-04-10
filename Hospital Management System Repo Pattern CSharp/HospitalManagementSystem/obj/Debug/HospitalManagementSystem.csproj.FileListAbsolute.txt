@@ -1,0 +1,38 @@
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+L:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.SuggestedBindingRedirects.cache
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+F:\C#\C# Project\ProjectC#\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\USSL\Desktop\1279683 Kazi Md. Nurul Islam\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.SuggestedBindingRedirects.cache
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+F:\C#\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+I:\My All IsDB Exam and project main file\C# Project\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
